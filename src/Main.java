@@ -3,8 +3,8 @@
 public class Main {
     public static void main(String[] args) {
          System.out.printf("Hello and welcome!");
-        //TESTqwdqwd TEST
-        System.out.printf("Hello and welcome!sss");
-        //Merge
+        //TEST
+        System.out.println("qwd");
+        System.out.println("auto");
     }
 }
